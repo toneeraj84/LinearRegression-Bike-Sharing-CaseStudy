@@ -20,12 +20,12 @@ Develop a predictive model using the survey data.
 The model will help analyze the key factors affecting bike-sharing demand.
 Insights from the model will enable the business to strategize and plan activities to better manage future demand.
 
-## Technologies Used
-Python
-Stats Model (Python Library)
-SkLearn (Python Library)
-Seaborn (Python Library)
-MatPlotLib (Python Library)
+## Technologies Used  </br>
+Python  </br>
+Stats Model (Python Library)  </br>
+SkLearn (Python Library)  </br>
+Seaborn (Python Library)  </br>
+MatPlotLib (Python Library)  </br>
 
 ## Conclusions
 count= 0.5886+(0.2481yr)-(0.1889windspeed)-(0.2599Spring)-(0.0396Summer)-(0.0764Winter)-(0.1034Jan)+(0.0697Sep)-(0.0462Tuesday)-(0.2986Light_Snow)-(0.0859Mist) </br>
